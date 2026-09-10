@@ -1,7 +1,7 @@
 <Solution>
   <Folder Name="/common/">
     <File Path="../OzonEdu.StockApi/.gitignore" />
-    <File Path="../OzonEdu.StockApi/dockerfile" />
+    <File Path="dockerfile" />
     <File Path="readme.md" />
   </Folder>
   <Folder Name="/src/">
